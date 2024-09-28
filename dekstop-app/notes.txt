@@ -1,0 +1,78 @@
+Developing dekstop application
+-------------------------------
+An application can have following three layers of program
+1)Presentation layer
+2)Business layer
+3)Data layer
+
+Developing presentation layer of the application
+------------------------------------------------
+This layer is also known as UI(user interface)
+UI can be of following two types
+1)CUI(Commandline user interface)
+2)GUI(Graphical user interface)
+
+Building GUI
+-------------
+It consists of several components
+Components could be as follows
+1)frame
+2)button
+3)textbox
+4)textarea
+5)dropdown box
+6)radio button
+7)checkbox
+8)label
+9)passwordbox
+etc
+Remember frame will be main component of GUI
+Every component is represented in the form of object
+It means our program must create object for each component
+Code to create these objects will be written by UI developer
+Classes of these objects are predefined
+These classes are available in core java library
+Name of this library is rt.jar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

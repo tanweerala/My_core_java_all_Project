@@ -1,0 +1,9 @@
+public class Employee 
+{
+	//Command to created instance variables
+	private int eid;
+	private String name;
+	private String department;
+	private int salary;
+	
+}

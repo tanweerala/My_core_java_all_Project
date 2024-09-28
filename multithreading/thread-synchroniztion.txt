@@ -1,0 +1,63 @@
+Thread synchronization
+----------------------
+It is required when your program wants to 
+1)Allow access of shared object to only one thread at a time.Object must be synchronized in this case
+2)Allow invocation of method on shared object to only one thread at a time.Method must be synchronized in this case
+3)Allow execution of block of method on shared object to only one thread at a time.Block of method must be synchronized in this case
+
+Creating synchronized object
+=============================
+If all public method of the class are synchronized then that class is called synchronized class.
+Object of this class is also called synchronized 
+public class AA
+{
+  public synchronized void method1()
+  {
+	//command
+  }
+  public synchronized void method2()
+  {
+	//command
+  }
+  public synchronized void method3()
+  {
+	//command
+  }
+}  
+Defining synchronized method
+=============================
+public class AA
+{
+  public synchronized void method1()
+  {
+	//command
+  }
+  public void method2()
+  {
+	//command
+  }
+  public void method3()
+  {
+	//command
+  }
+}  
+
+Defining synchronized block
+=============================
+public class AA
+{
+  public void method1()
+  {
+	command1
+	command2
+	command3
+	sycnronized(this)
+	{
+	  command4`mmand5
+	  command6
+	}
+	command7
+	command8
+	command9
+  }
+}  

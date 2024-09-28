@@ -1,0 +1,14 @@
+Command to call method
+----------------------
+This command is written inside a method
+The method that contains this command is known as caller method
+The method that will be invoked is known as called method
+
+public static void method1()
+{
+  //commands
+}
+public static void method2() //method2 is caller of method1
+{
+  method1(); //Command to call method1
+}

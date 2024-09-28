@@ -1,0 +1,46 @@
+Instance variables
+------------------
+Those variables that are declared/defined inside class without using static modifier are known as instance variables.These variables are also known as non-static variables
+Command to create instance variable is executed each time class is instantiated(Object from class is created)
+So instance variables can have multiple copies in memory
+
+Class variables
+---------------
+Those variables that are declared/defined inside class by using static modifier are known as class variables.These variables are also known as static variables
+Command to create static variable is executed when class is loaded in memory.Remember class is loaded only once in memory.So static variable can have only one copy in memory
+
+Remember memory allocation of instance variable is dynamic and memory allocation of class variable is static
+
+public class Demo
+{
+   int x; //Command to create instance variable
+   static int y;//Command to create class variable
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+public class App 
+{
+	public static void main(String[] args) 
+	{
+		AA.show(90,56.34f,true,"Rehan");
+	}
+}

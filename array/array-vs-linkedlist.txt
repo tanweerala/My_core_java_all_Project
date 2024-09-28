@@ -1,0 +1,8 @@
+We can create data structure using array as well as linked list
+1)Size of the array is fixed.It can neither grow nor shrink
+1)Size of the linked list is not fixed.It can grow and shrink
+2)Memory allocation of the array is static
+2)Memory allocation of the linked list is dynamic
+3)Memory allocation is congiguous
+3)Memory allocation is scattered
+Note:array uses less memory w.r.t to linkedlist

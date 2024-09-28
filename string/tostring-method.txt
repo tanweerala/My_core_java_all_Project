@@ -1,0 +1,11 @@
+public String toString()
+========================
+It is a method of Object class
+It returns compination of following three value
+1)Class name
+2)@
+3)Hexadecimal value of object's hashcode
+
+Remember event class has interited this method from the object class so it can be overridden also
+String class,StringBuffer class and StringBuilder class have already overridden it
+toString method of these classes return vlaue of these classes object

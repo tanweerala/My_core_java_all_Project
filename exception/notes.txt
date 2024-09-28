@@ -1,0 +1,40 @@
+Exception handling
+------------------
+During execution of program, some abnormal/exceptional conditions might be occurred
+These abnormal conditions are known as exceptions
+If program will not handle these exceptions then program will not be able to continue execution
+It means execution of program will be terminated
+If program will handle exception then execution of program will not be terminated
+
+Following three activities are performed during exception and exception handling
+1)Creating exception:Code to create exception is predefined
+2)Thrwoing exception:Code to throw exception is predefined
+3)Catching exception:Code to catch exception should be written by you
+
+Creating exception
+------------------
+An object is created and information about the exception is stored in this object
+This object is created by either JVM or API(Predefined methods an constructors called by our program)
+
+Throwing exception
+------------------
+After creating exception(object), JVM or API sends reference of that object to the program.This is called throwing exception
+
+Catching exception
+------------------
+Program must accept reference of exception(object)
+Aceepting reference of exception is called catching exception
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

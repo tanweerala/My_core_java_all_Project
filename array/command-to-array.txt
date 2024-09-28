@@ -1,0 +1,13 @@
+Command to create array
+------------------------
+datatype[] variable_name=new datatype[size_of_array];
+
+int[] num=new int[5];
+
+Assigning value to the array
+----------------------------
+int[] num=new int[]{10,20,30,40,50};
+or
+int[] num={10,20,30,40,50};
+
+int[] num= {24,576,246,87,44,5787,834};

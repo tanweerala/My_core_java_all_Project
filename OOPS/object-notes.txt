@@ -1,0 +1,45 @@
+Object oriented programming
+---------------------------
+Java is an object oriented programming language
+An object oriented program creates one or more than one objects during execution
+Methods called by that program will be executed on these objects 
+
+Object can also be container of data in mmeory like variable
+
+Object vs variable
+-------------------
+1)Variable can hold single data while object can hold multiple data
+2)Variable can not be shared among methods while object can be shared among methods
+3)Variable is named container while object is referenced container
+4)Keeping data into variable will be visible while keeping data into object can be hidden
+
+What is object?
+---------------
+Every real world entity is an object
+Every object has state.Object is identified by states
+Every object has two properties
+1)Arrtibute
+2)Behaviour
+
+What is class?
+--------------
+It is template or blueprint from which objects are created
+You can say it is blueprint of the object
+Inside this class you will have to define following:
+1)Instance variables(variables):Optional
+2)Constructors(special type of methods):Mandatory
+3)Getters and setters(methods):Optional 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

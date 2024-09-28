@@ -1,0 +1,34 @@
+rt.jar is a zip file
+In java jar file is bundle of multiple packages
+Package is container of classes
+Few packages of this jar file are as follows
+1)java.lang
+2)java.lang.reflect
+3)java.util
+4)java.io
+5)java.time
+6)java.sql
+7)java.awt
+8)java.awt.event
+9)javax.swing
+etc
+
+java.lang package
+-----------------
+It is default package of the library
+Few classes of this package are as follows
+String,System,Object,Class,Integer,Thread,Exception,Math,etc
+If we are using classes of this package into source code of the program then we do not need to write import statement
+For other package classes we will have to write import statement
+Import statement can be written following two ways
+1) import packagename.classname;
+2) import packagename.*;
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+String handling
+===============
+Set of characters is known as string
+"8810436567" is a string
+"Rehan Ahmad" is a string
+"rehanahmad9919@gmail.com" is a string
+char type array should be created by program in memory to hold/keep string
+In java code to create this array is predefined in following three classes
+1)String class
+2)StringBuffer class
+3)StringBuilder class
+These three classes are in default package(java.lang package)
+
+String str1=new String("Rohan");
+StringBuffer str2=new StringBuffer("Amit");
+StringBuilder str3=new StringBuilder("Rahul");
+
+Note:Reference of the object can not be shown in java
+
+Code to print reference of the object will be changed by compiler
+This code will be as follows
+
+String str1=new String("Rohan");
+System.out.println(str1);
+Compiler will change above command and it should be as follows
+System.out.println(str1.toString());
+Here value returned by toString() method will be printed
+Remember toString() is a method of Object class
+so every java class has toString() method
+
+
+
+
+
+
+
+
+
+

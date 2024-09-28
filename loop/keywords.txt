@@ -1,0 +1,5 @@
+Modifiers:public,protected,private,static,abstract,final,synchronized,etc
+Operators:new,instanceof
+Datatypes: byte,short,int,long,float,double,boolean,char
+Value:true,false,null
+Variables:this,super,length

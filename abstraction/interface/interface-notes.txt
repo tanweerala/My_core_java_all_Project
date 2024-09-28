@@ -1,0 +1,25 @@
+Inteferace
+-----------
+It is a structure like class
+Inside interface wen can define abstract methods and constants(final variables)
+All methods inside interface are bydefault public and abstract
+All variables inside interface are bydefault public staitic and final
+
+It means interface should be created to define abstract methods(Method without implementation/body)
+Implementation/body of interface methods will be provided by class.These methods will be verridden inside the class
+
+public interface AA
+{
+  void method1();
+  void method2();
+}
+public class BB implements AA
+{
+}
+
+
+
+
+
+
+

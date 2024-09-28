@@ -1,0 +1,20 @@
+Loop
+----
+Execution of a command or set of commands again and again is called loop
+Remember command will be written only once and it will be executed n number of times
+n could be finite as well as infinite
+In case of finite n could be constant as well as variable
+
+How to define loop
+-------------------
+We can define loop using following keywrods
+1)for:Define loop using for when n is constant
+2)while:Define loop using for when n is variable or infinite
+3)do and while:Define loop using for when n is variable or infinite.In this case loop will be executed atleast once
+
+
+
+
+
+
+

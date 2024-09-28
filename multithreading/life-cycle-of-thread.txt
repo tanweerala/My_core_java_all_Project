@@ -1,0 +1,9 @@
+Life cycle of threads
+=====================
+Every thread has a life cycle.Life cycle of thread is managed by thread-schedular
+Life cycle of thread has one of following phases/states
+1)New thread(birth):When object is created
+2)Runnable(ready):When start() method is called.Multiple threads can be in this state at a time
+3)Running(working):One of the runnable thread will be sent into this state by thread-schedular randomly.Only one thread can be in this state at a time.In this state run method will be called autometically
+4)Non-runnable(rest):Running thread can be sent into this state explicitily as well as implicitily.We can call sleep(),join(),wait(),suspend(),etc method to sent into in this state from the running state.Multiple threads can be in this state at a time
+5)Terminated(death):When execution of run() method is completed

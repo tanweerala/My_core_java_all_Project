@@ -1,0 +1,20 @@
+Inheritance
+------------
+It is a feature of OOPS
+It helps in code reusablity
+By using this feature you can create extension of exisiting classes
+By using this feature you can share methods and variables code of an existing class among new classes(Those classes that have several common properties)
+
+By inheritance a new class can acquaire properties from an existing class
+
+public class AA
+{
+  //properties
+}
+public class BB extends AA
+{
+  //properties
+}
+BB will be known as sub/child/dervied class of AA
+AA will be known as super/parent/base class of BB
+

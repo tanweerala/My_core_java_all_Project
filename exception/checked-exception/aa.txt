@@ -1,0 +1,6 @@
+This is an example of checked exception
+Handling these exceptions are mandatory
+xdv vc bc bxv bcv
+cxbvb vcb v bnvc nv nbc
+ cbv bnvc nbc nbc nb nbv n
+end of file

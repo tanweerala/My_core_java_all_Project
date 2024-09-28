@@ -1,0 +1,18 @@
+Applying condition
+-------------------
+
+If amount is greater than 8000 then get 20% discount
+If amount is greater than 6000 and less than oe equal to 8000 then get 15% discount
+If amount is greater than 4000 and less than oe equal to 6000 then get 10% discount
+If amount is greater than 2000 and less than oe equal to 4000 then get 5% discount
+If amount is less than 2000 then you will not get any discount
+
+Using multiple if
+-----------------
+If you are wirting multiple if condition then you will have to ensure that all if should not be executed.All the if followed by if that is true must not be executed
+So inorder to implement above you will have to write if statement in following manner
+1)Write second if statement inside else of first if
+2)Write third if statement inside else of second if
+3)Write fourth if statement inside else of third if
+...................................................
+n)Write nth if statement inside else of nth-1 of if

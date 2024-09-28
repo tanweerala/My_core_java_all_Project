@@ -1,0 +1,11 @@
+public class AA 
+{
+	public AA(int x,int y)
+	{
+		System.out.println("Ok");
+	}
+	public void show(int v1,float v2,boolean v3,String v4)
+	{
+		System.out.println("Welcome");
+	}
+}

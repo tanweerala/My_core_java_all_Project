@@ -1,0 +1,11 @@
+Array
+-----
+It is collection of similar type of elements and elements are placed at adjacent locations in memory
+Element of the array could be
+1)Primitive type values
+2)Reference of objects
+3)Reference of arrays
+
+Keeping data into array provides following benefits
+1)Accesing data is quite fast due to adjacent location
+2)It reduces complexity of code.We can define loop to access data from array

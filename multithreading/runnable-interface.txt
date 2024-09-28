@@ -1,0 +1,27 @@
+Runnable interface
+==================
+It has only one method.The method is as follows
+public void run()
+This interface is already implemented by Thread class
+As we know we will have to override run() method
+We can ovveride run() method by following two ways
+1)By implementing Runnable interface
+2)By extending Thread class
+
+1)First way
+public class Task implements Runnable
+{
+  public void run()
+  {
+	//Write code ot perform task
+  }
+}
+
+2)Second way
+public class Task extends Thread
+{
+  public void run()
+  {
+	//Write code ot perform task
+  }
+}

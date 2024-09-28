@@ -1,0 +1,11 @@
+public class App 
+{
+	public static void main(String[] args) 
+	{
+		Person p1,p2,p3;
+		p1=new Person(102,"Rahul","Noida");
+		p2=new Person(103,"Hemant","Delhi");
+		p3=new Person(101,"imran","Lucknow");
+		p2.showDetails();
+	}
+}

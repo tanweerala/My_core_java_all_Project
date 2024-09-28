@@ -1,0 +1,13 @@
+Event handling
+---------------
+Occurence of anything or any task is called event
+In application development, application must be able to perform task for user on user interaction
+For this we will have to build program
+This program will be called event handler/listener.This program will be business layer of the application 
+Event can be of following types
+1)ActionEvent:Clicking on component such as button,textbox,etc
+2)MouseEvent:Pressing,releasing,entering,etc mouse on component 
+3)KeyEvent:Pressing,releasing,typing key on component 
+4)FocusEvent:Gaining focus or loosing focus by component
+5)WindowEvent
+etc

@@ -1,0 +1,16 @@
+Defining classes by implementing interface
+-------------------------------------------
+Interface must be having atlest one abstract method
+This class will provide implementation/body of methods of given interface
+
+public interface AA
+{
+  public void method1();
+  public void method2();
+}
+public class BB implements AA
+{
+  public void method1()
+  {
+  }
+}

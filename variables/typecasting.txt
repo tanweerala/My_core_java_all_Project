@@ -1,0 +1,6 @@
+Typecasting
+------------
+It is a way to change the type of value
+(type)value;
+or 
+(type)variable_name;

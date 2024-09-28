@@ -1,0 +1,4 @@
+Object's reference
+------------------
+Every object is identified by an unique id.This id is known as reference of the object.JVM generates this id and returns to the program
+Program must keep reference of object, so that program can use this object again and again

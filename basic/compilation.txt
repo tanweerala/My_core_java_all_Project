@@ -1,0 +1,10 @@
+Compilation
+-----------
+It is a prcoess in which source code is converted into executable code
+Following two activities are performed during compilation
+1)Parsing:Errors will be checked inside source code
+2)Translation:Souce code will be translated into machine understandable code
+This is done by compiler
+Java compiler does not generate machine code
+It generates byte code
+This byte code will be interpreted by JVM at runtime 

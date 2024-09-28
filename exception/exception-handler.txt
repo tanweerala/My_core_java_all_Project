@@ -1,0 +1,30 @@
+Exception handler
+=================
+Code written to catch exception is called exception handler
+In this code we will have to define/create following two blocks inside the method which has that code
+
+1)try block
+2)catch block
+
+try block
+---------
+try
+{
+  //Write those commands that might be cause of exception
+}
+
+catch block
+------------
+catch(ExceptionClass ex)
+{
+  //Write code to display information about exception
+}
+Here ex keeps reference of exception(object)
+Rule:catch block must be defined just after the end of try block
+
+
+
+
+
+
+

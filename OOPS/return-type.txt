@@ -1,0 +1,5 @@
+Return type of method
+---------------------
+As we know every methods has a return type
+Return type indicrates type of value retured by this method to the caller.It also indicates whether it will return value to the caller or not
+If return type of method is void then that method will not return any value to the caller

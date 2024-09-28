@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\CETPA\2023\summer\core\2-4\OOPS\project\.metadata\.plugins\org.eclipse.jdt.core
+323795472.index
+1621587575.index
+246179313.index

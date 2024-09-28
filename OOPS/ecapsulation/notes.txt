@@ -1,0 +1,22 @@
+Command to create object
+------------------------
+new Classname();
+or
+new Classname(arguments);
+
+Encapsulation
+--------------
+Wrapping up attributes and behaviours of the object into a single unit is called encapsulation.This is achieved by defining/creating a class
+Main advantage of encapsulation is data hiding
+
+Instantiation
+--------------
+Creating object from the class is called instantiation
+Remember every object is always an instance of a class
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+public class App 
+{
+	public static void main(String[] args) 
+	{
+		new Customer(101,"Amit Singh","Noida","9919875298");
+	}
+}

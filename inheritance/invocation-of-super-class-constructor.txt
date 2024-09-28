@@ -1,0 +1,9 @@
+Invocation of super/parent class constructor
+---------------------------------------------
+Child/sub class constructor always calls constructor of parent/super class.It is mandatory
+So during construction of child class object constructor of child class as well as parent class will be executed
+This is achieved by following command
+super();
+This command will be inserted by compiler inside the constructor of every class
+This command will be first statement of every constructor
+This command will call default/non-parameterized constructor of parent class

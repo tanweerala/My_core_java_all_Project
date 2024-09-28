@@ -1,0 +1,40 @@
+Method of String class
+=======================
+It has several methods.Few of them are as follows
+1)public int length()
+2)public char charAt(int index)
+3)public int indexOf(char ch):It returns index of first occurrence of specified character.If not found then returns -1
+4)public int lastIndexOf(char ch):It returns index of last occurrence of specified character.If not found then returns -1
+5)public String substring(int fromindex)
+6)public String substring(int fromindex,int toindex)
+7)public String toUpperCase()
+8)public String toLowerCase()
+9)public String replace(char oldchar,char newchar)
+10)public String replace(String oldword,char newword)
+11)public String[] split(String separator)
+12)public String trim()
+13)public boolean equals(Object obj)
+It is a method of Object.It compares reference of two objects for equality and returns boolean value.String class has overridden this method.It compares value of String class objects
+14)public boolean equalsIgnoreCase(String str)
+15)public int compareTo(Object obj)
+It is a method of Comparable interface
+String class has overridden this method
+Value returned by this method could be as follows
+0:When value of both object will be same
+less than 0:When value of first object is smaller than value of second object
+greater than 0:When value of first object is greater than value of second object
+16)public int compareToIgnoreCase(String str)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

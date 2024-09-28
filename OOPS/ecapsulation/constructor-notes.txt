@@ -1,0 +1,30 @@
+Constructor
+-----------
+It is special type of method
+It has not return type
+Name of constructor must be name of class
+
+public class Demo
+{
+  public void Demo()//method
+  {
+	//command
+  }
+  public Demo()//constructor
+  {
+	//command
+  }
+}
+Constructor might contain command to assign value to the onstance variables
+Rule:Every class must have atleast one constructor
+
+
+
+
+
+
+
+
+
+
+

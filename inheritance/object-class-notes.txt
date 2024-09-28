@@ -1,0 +1,7 @@
+Object class
+------------
+It is root class of java
+It has 11 methods and one default constructor
+Every class in java is child of this class either directly or indirectly
+Remember it is default super class in java
+That's why every class in java has all 11 methods of Object class

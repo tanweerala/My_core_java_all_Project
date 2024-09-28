@@ -1,0 +1,27 @@
+Class variable:Those variables that are declared by using static modifier inside class are known as class variables/static variables
+Only one copy of static variable is created in memory
+
+Instance variable::Those variables that are declared without using static modifier inside class are known as instance variables/non-static variables
+These variables are create each time object from the class is created
+
+public class AA
+{
+  int x; //command to create instance variable
+  static int y;//command to create class variable
+}
+
+Command to create instance variable is executed each time object from class is create
+Command to create class variable is executed when class is loaded in memory.Remember a class is loaded only once in memory
+
+
+
+
+static variable should be accessed by class name but it can be accessed by object's reference also
+static method should be called by class name but it can be called by object's reference also
+
+
+
+
+
+
+

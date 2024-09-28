@@ -1,0 +1,25 @@
+Activities performed during construction of object
+---------------------------------------------------
+1)Memory allocation
+2)Initialization
+
+Memory allocation
+-----------------
+It is dynamic memory allocation
+Command to create instance variables are executed during this activity
+Instance variables are created in heap area
+
+Initialization
+---------------
+Values are assigned to instance variables
+Constructor is called during this activity
+So command writtence inside constructor are executed
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+ANY APPLICATION CAN BE BUILT USING JAVA
+1)Desktop application
+2)Mobile application
+3)Web application
+4)Distributed application
+etc
+Web API
+
+Application
+-----------
+It is set of programs
+In java, extension of these programs will be .class
+
+Program
+-------
+It is set of methods
+
+Method
+-------
+It is set of instructions/commands to perform a particular task
+These commands are executed in a sequence when method is called
+
+Commands
+--------
+A method could have several commands such as
+1)Command to create variable
+2)Command to assign value to the variables
+3)Command to perform arithmetic operation
+4)Command to perform comparsion operation
+5)Command to apply condition
+6)Command to execute loop
+7)Command to call methods
+8)Command to create objects
+9)Command to create array
+etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

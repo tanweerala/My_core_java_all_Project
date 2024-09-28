@@ -1,0 +1,65 @@
+Types of inheritance
+---------------------
+There are 5 types of inheritance
+1)Single inheritance
+2)Multiple inheritance
+3)Multi level inheritance
+4)Hierarchical inheritance
+5)Hybrid inheritance
+
+Single inheritance
+-------------------
+public class AA
+{
+}
+public class BB extends AA
+{
+}
+
+Multiple inheritance
+-------------------
+public class AA
+{
+}
+public class BB
+{
+}
+public class CC extends AA,BB //error
+{
+}
+Here class CC is inheriting properties from class AA and BB.It means CC has more than one parent class.
+It is not allowed inside class in java.But it is allowed inside interfaces
+C++ and python allows multiple inheritance inside classes
+
+Multi level inheritance
+-----------------------
+public class AA
+{
+}
+public class BB extends AA
+{
+}
+public class CC extends BB
+{
+}
+public class DD extends CC
+{
+}
+
+Hierarchical inheritance
+-----------------------
+public class AA
+{
+}
+public class BB extends AA
+{
+}
+public class CC extends AA
+{
+}
+public class DD extends AA
+{
+}
+
+
+

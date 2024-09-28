@@ -1,0 +1,32 @@
+Types of exceptions
+-------------------
+Exceptions are divided into following two categories
+1)Checked exceptions
+2)Unchecked exceptions
+
+Checked exceptions
+==================
+Handling these exceptions are mandatory
+Putting handler for these exceptions are mandatory
+Compiler checks existense of handler
+All classes that are child of Exception class kept into this category.Only RuntimeException class is not checked while it is child of Exception
+Precautions of these exceptions are not possible
+
+public class MyException extends Exception
+{
+}
+Here MyException class will be checked exception
+JVM never creates and throws checked exception
+Only APis can create and throw these exceptions
+These exceptions are also known as compile time exceptions
+
+Unchecked exceptions
+==================
+Handling these exceptions are not mandatory
+Compiler will not check existense of handler
+All classes that are child of RunttimeException class kept into this category.Only 
+These exceptions are also knowmn as runtime exceptions
+Precautions of these exceptions are possible
+
+
+ 

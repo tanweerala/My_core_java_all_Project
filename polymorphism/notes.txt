@@ -1,0 +1,24 @@
+Polymorphism
+------------
+It means many forms
+An entity having many forms
+It reduces code complexity
+There are two types of polymorphism
+1)Static polymorphism
+2)Dynamic polymorphism 
+
+Static polymorphism
+--------------------
+An entity existing in different physical forms simultanesouly has this polymorphism
+It is achieved by method overloading
+This polymorphism is also known as compile time polymorphism
+
+Dynamic polymorphism
+--------------------
+An entity changing it's form depending upn circumstances has this polymorphism
+It is achieved by method overriding
+This polymorphism is also known as runtime polymorphism
+
+
+
+

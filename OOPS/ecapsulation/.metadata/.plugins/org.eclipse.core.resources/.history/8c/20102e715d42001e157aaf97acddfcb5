@@ -1,0 +1,6 @@
+public class Employee 
+{
+	//Declaring instance variables
+	private int eid;
+	String name;
+}

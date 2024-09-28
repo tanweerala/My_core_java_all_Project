@@ -1,0 +1,7 @@
+Return type of method
+----------------------
+As we know every method must have a return type
+It could be void,int,float,boolean,etc
+Return type of method can also be non-primitive(All classes and interfaces)
+If return type of method is void then that method can not return any value to the caller
+If return type of method is not void(primitive or non-primitive) then that method must return a value to the caller.In this case implementation(body) of method must have return statement

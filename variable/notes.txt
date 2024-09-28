@@ -1,0 +1,94 @@
+Command to create variable
+--------------------------
+Variable is a named data container in memory
+Object and array are referenced data container in memory
+A variable can hold/keep only one value
+
+Syntax
+------
+datatype variable_name;
+
+Datatype
+--------
+Without datatype variables can not be declared
+There are two category of datatypes in java
+1)Primitive datatypes
+2)Non-primitive datatypes
+
+Primitive datatypes
+--------------------
+These are system defined datatypes.These datatypes are also known as fundamental datatypes
+There are 8 primitive datatypes
+1)byte		8bit			
+2)short		16bit
+3)int		32bit
+4)long		64bit
+5)float		32bit
+6)double	64bit	
+7)char		16bit
+8)boolean	1bit	
+
+Non-primitive datatypes
+------------------------
+These are user defined datatypes
+These datatypes are also known as derived datatypes
+String is one of the most popular non-primiive datatypes
+It is derived from char datatype
+
+Value			Type of value
+-----			-------------
+56			int
+45565			int
+78.45			double
+34.67f			float
+'9'			char
+'k'			char
+'&'			char
+true			boolean
+false			boolean
+"8810436567"		String
+"Rehan Ahmad"		String
+"rehan9919@gmail.com"	String	
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

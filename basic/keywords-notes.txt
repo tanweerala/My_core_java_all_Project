@@ -1,0 +1,9 @@
+Keywords
+---------
+Keywords are vocabulary of programming language
+Without keywords source code of the program can not be written
+In java there are upto 60 keywords
+Remember all keywords name are in lowercase
+Few keywords are as follows
+public,protected,private,class,abstract,final,void,static,interface,extends,implements,import,byte,short,int,long,float,double,boolean,char,if,else,switch,case,while,for,do,return,break,try,catch,finally,throw,throws,this,super,synchronized,native,assert,package,etc
+

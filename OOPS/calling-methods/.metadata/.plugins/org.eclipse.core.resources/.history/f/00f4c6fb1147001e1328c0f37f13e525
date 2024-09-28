@@ -1,0 +1,16 @@
+import javax.swing.*;
+public class ChessBoard 
+{
+	JFrame fr=new JFrame("Chess Baord");
+	public ChessBoard()
+	{
+		fr.setSize(1000,600);
+		fr.setLocationRelativeTo(null);
+		fr.setResizable(false);
+		fr.setVisible(true);
+	}
+	public static void main(String[] args) 
+	{
+		new ChessBoard();
+	}
+}

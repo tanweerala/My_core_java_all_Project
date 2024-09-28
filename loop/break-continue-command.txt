@@ -1,0 +1,4 @@
+Role of break and continue in loop
+----------------------------------
+break is used to terminate loop unconditionly
+continue statement is used to skip all commands followed by continue and shift control to the condition of loop

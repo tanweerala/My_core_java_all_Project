@@ -1,0 +1,32 @@
+Binary operators
+----------------
+1)Arithmetic operators
++ , - , * , / , %
+2)Arithmetic assginment operators
++= , -= , *= , /= , %= 
+3)Comparison operators
+<,>,<=,>=,==,!= 
+
+
+4)Logical operators
+&&(and),||(or),^(xor)
+There operators are used to combine two boolean value and return single boolean value
+We can use these operators to cmobine two conditions
+
+&& operator returns true when both boolean value(condition) will be true
+|| operator returns true when atleast one boolean value(condition) will be true
+^ operator returns true when only one boolean value(condition) will be true
+
+Note:&& operator is a short circuit logical operator.If first condition returns false then && operator returns false without evaluating second condition 
+Note:|| operator is a short circuit logical operator.If first condition returns true then ||  operator returns true without evaluating second condition 
+
+
+
+
+
+
+
+
+
+
+

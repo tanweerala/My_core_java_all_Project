@@ -1,0 +1,32 @@
+Static method and non-static method
+------------------------------------
+
+Defining static method
+----------------------
+We can define static method by using static keyword in method declaration
+public static void show()
+{
+  //command
+}
+Remember instance variables can not be used inside static method
+If you do not want to use instance variables inside method then make that method static.Object reference is not required to call static methods.Class name is required to call methods
+
+Defining non-static method
+--------------------------- 
+We can define non-static method without using static keyword in method declaration
+public void show()
+{
+  //command
+}
+Remember instance variables can be used inside non-static method
+If you want to use instance variables inside method then make that method non-static.Object reference is required to call static methods.Class name can not be used to call non-static methods
+
+
+
+
+
+
+
+
+
+

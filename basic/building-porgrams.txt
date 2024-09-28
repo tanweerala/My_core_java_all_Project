@@ -1,0 +1,8 @@
+Building programs using java language
+-------------------------------------
+1)Build/write source code of the program.Inorder to write source you must have editor 
+2)Compile source code.Inorder to compile source code you must have java compiler
+3)Run your program.Inorder to run program you must have JRE(Java runtime environment)
+
+For editor you can use notepad,VS code,etc
+Install JavaSE 1.8 for compiler and JRE and some other tools

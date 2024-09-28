@@ -1,0 +1,21 @@
+String class
+=============
+It is an immutable class
+Immutable means non modifiable
+If class is immutable then object of that class will also be immutable
+So string hold by String class object can not be modified/changed
+While StringBuffer and StringBuilder classes are mutable
+
+Imp note:Object of String class is created by default for each string and reference of the object is returned
+
+String str="CETPA";
+For the value "CETPA" an object of String class will be created by default in constant pool and reference of that object is returned
+
+Imp note:For same string, only one object of String class will be created
+
+String str1="CETPA";
+String str2="CETPA";
+String str3="CETPA";
+
+
+

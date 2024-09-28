@@ -1,0 +1,23 @@
+Defining/creating event listener/handler
+-----------------------------------------
+We will have to build this program(listener/handler) according to the event to be handled by this program
+If event is ActionEvent then build ActionListener
+If event is MouseEvent then build MouseListener
+If event is KeyEvent then build KeyListener
+If event is FocusEvent then build FocusListener
+
+Here ActionListener,MoyseListener,KeyListener and FocusListener are predefined interfaces
+ActionEvent,MouseEvent,KeyEvent and FocusEvent are predefined classes
+java.awt.event package contains these classes and interfaces
+
+We will have to create/define class of listener by implementing one of the above interfaces
+
+public class MyListener implements ActionListener
+{
+  
+}
+
+
+
+
+ 

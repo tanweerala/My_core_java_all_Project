@@ -1,0 +1,30 @@
+Question
+--------
+1)Accept a number from user and count no of digits it has
+2)Accept a number from user and find sum of all it's digits
+3)Accept a number from user and reverse that number
+4)Accept a number from user and check whether number is palindrome or not
+
+int num=123;
+int rem=num%10;
+syso(r);
+num=num/10;
+rem=num%10;
+syso(r);
+num=num/10;
+rem=num%10;
+syso(r);
+num=num/10;
+
+
+int num=sc.nextInt();
+On execution of above command
+1)Variable num will be created
+2)nextInt() method of Scanner class will be called
+3)Value returned by nextInt() method will be assigned to variable num
+
+
+
+
+
+

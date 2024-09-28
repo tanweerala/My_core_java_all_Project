@@ -1,0 +1,4 @@
+File in java programs
+----------------------
+1)Java file:This file contains source code of the program.This file is created by programmer
+2)Class file:This file contains executable code of the program.This file is created compiler

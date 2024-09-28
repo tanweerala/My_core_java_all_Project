@@ -1,0 +1,15 @@
+public class BankService 
+{
+	public void showBalance()
+	{
+		//code
+	}
+	public void depositMoney()
+	{
+		//code
+	}
+	public void withdrawMoney()
+	{
+		//code
+	}
+}

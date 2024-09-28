@@ -1,0 +1,7 @@
+Accepting value from the user
+------------------------------
+1)Write import statement to import Scanner class
+import java.util.Scanner;
+2)Write code to create object from Scanner class
+Scanner sc=new Scanner(System.in);
+3)Call method of Scanner class to accept value from user

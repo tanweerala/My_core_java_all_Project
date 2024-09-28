@@ -1,0 +1,27 @@
+null:It is keyword.It is default value of object's reference
+
+
+JVM(Java virtual machine)
+-------------------------
+Life cycle of every java program is managed by JVM
+Before execution of java program, JVM starts
+After execution of java programs JVM ends/terminates
+
+
+ImageIcon icon1=new ImageIcon(getClass().getResource("images/b0.gif"));
+
+Constant in java
+-----------------
+In java final variable is known as constant
+Remember value of final variable can not be changed
+
+finat int num=90;
+num=10;//error
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Abstract class
+--------------
+A class which can not be instantiated(creating object from the class) is known as abstract class
+
+public abstract class Shape
+{
+}
+Shape sh;//no error
+new Shape();//error
+

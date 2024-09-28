@@ -1,0 +1,13 @@
+Access modifiers
+-----------------
+By using access modifiers(such as public,protected,default,private) we can set visibility of the class as well as class members(variables,methods)
+
+Note:Package is container of classes.A package has multiple classes
+
+Access modifiers		Visible inside package 		Visible outside package
+----------------		----------------------		-----------------------
+public				Visible in every class		Visible in every class
+protected			Visible in every class		Visible in child class
+default				Visible in every class		Not visible
+private				Not visible			Not visible	
+

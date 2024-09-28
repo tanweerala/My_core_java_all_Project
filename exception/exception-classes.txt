@@ -1,0 +1,37 @@
+Exception classes
+==================
+All exception classes are child of Throwable class either directly or indirecty
+Throwable class has following two childs
+1)Error class:It can not be caught.Few errors are as follows
+  i)StackOverflowError
+  ii)NoSuchMethodError
+  iii)VirtualMachineError
+  etc
+2)Exception class:It can be caught.Few exceptions are as follows
+ i)RuntimeException
+ ii)ClassNotfoundException
+ iii)InterruptedException
+ iv)IOException
+ v)FileNotFoundException
+ etc
+RuntimeException class  
+----------------------
+It has several child class.Few of them are as follows
+ i)ArithmeticException
+ ii)NullPointerException
+ iii)ArrayIndexOutOfBoundsException
+ iv)ClassCastExcption
+ etc
+
+Remember you also create/define your own exception class
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,28 @@
+Abstraction
+===========
+Hiding non-essential details of an entity from the user is called abstraction
+It means hiding complexity is called abstraction
+It is achieved by defining abstract methods
+
+
+Abstract method
+---------------
+A method which has no body/implementation is known as abstract method
+public abstract return-type method-name(parameter-list);
+Rule:Abstract method can only be defined/declared inside abstract class or inside interface
+
+public abstract class AA
+{
+  public abstract void show();
+}
+
+or
+public interface AA
+{
+  public abstract void show();
+}
+
+
+
+
+

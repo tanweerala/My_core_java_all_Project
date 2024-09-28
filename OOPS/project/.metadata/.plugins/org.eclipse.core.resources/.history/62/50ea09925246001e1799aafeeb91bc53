@@ -1,0 +1,23 @@
+public class Account 
+{
+	private String name;
+	private int amount;
+	
+	public Account(String arg1,int arg2)
+	{
+		name=arg1;
+		amount=arg2;
+	}
+	public String getName()
+	{
+		return name;
+	}
+	public int getAmount()
+	{
+		return amount;
+	}
+	public void setAmount(int arg)
+	{
+		amount=arg;
+	}
+}

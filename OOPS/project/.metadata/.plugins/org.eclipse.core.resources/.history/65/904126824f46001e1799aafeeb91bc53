@@ -1,0 +1,17 @@
+public class BankService 
+{
+	Account ac=new Account("Amit",5000);
+	public void showBalance()
+	{
+		int balance=ac.getAmount();
+		System.out.println("Your current balance is :"+balance);
+	}
+	public void depositMoney()
+	{
+		//code
+	}
+	public void withdrawMoney()
+	{
+		//code
+	}
+}

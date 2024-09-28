@@ -1,0 +1,7 @@
+main method
+-------------
+Every java program must have main method
+Signature of main method should be as follows
+public static void main(String[]args)
+Without main method program will not run
+Caller of main method is JVM

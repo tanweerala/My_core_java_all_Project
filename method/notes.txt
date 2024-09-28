@@ -1,0 +1,56 @@
+Method
+------
+It is set of executable commands
+We will have to define/create methods
+We will have to define signature of the method and implementation/body of the method
+1)Signature of the method:It is used to identify method
+2)Implementation of the method:It is executed to perform task
+
+public static void add(int x,int y)
+{
+  int r1=x+y;
+  int r2=x*y;
+  int r3=x/y;
+  int r4=x-y;
+}
+
+Implementation of method
+-------------------------
+It has executable commands
+It can have following commands
+1)Command to create variable
+2)Command to assign value to the variable
+3)Command to perform arithmetic operation
+4)Command to perform comparison operation
+5)Command to apply condition
+6)Command to execute loop
+7)Command to call/invoke method
+8)Command to create object
+9)Command to create array
+etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

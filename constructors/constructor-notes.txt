@@ -1,0 +1,39 @@
+Constructor
+-----------
+Without constructor object can not be created
+So every class must have atleast once constructor
+It is a special type of method
+Name of constructor must be the name of class
+Constructor has no return type .If return type is given then that constructor wil lnot be constructor.It will be a method
+Constructors can not be called exiplicitily
+It means we can not write code to call constructor
+Code to create object has code to calll constructor also
+Constructor should have object's initialization command
+(Command to assign first time value to the instance variable is called initialization of object)
+Note:So constructor is used to initialize object
+
+Types of constructors
+---------------------
+There are three types of constructor
+1)Default constructor
+2)Parameterized constructor
+3)Copy constructor
+
+
+Default constructor
+-------------------
+This is the constructor that is inserted by compiler into class file of the class
+This is a non-parameterized/no-argument constructor
+Compiler inserts this constructor inside class file when source code of the class has no constructor
+Object will be initialized by default value when this constructor will be executed
+
+Parameterized constructor
+--------------------------
+Define this constructor inside source code of the class to initialized object by explicit value(Value given by user or program or value fetched from database)
+
+
+
+
+
+
+

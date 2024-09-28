@@ -1,0 +1,15 @@
+StringBuffer class
+==================
+It is a mutable class and synchronized
+So object of this class can be modified
+It means string kept into the object of this class can be modified
+Since it is synchronized also
+So object of this class can be used by only one thread at a time
+
+StringBuilder class
+==================
+It is a mutable class and unsynchronized
+So object of this class can be modified
+It means string kept into the object of this class can be modified
+Since it is unynchronized also
+So object of this class can be used by multiple threads at a time

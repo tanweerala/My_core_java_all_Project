@@ -1,0 +1,8 @@
+public class App 
+{
+	public static void main(String[] args) 
+	{
+		//Command to create object from class Employee
+		new Employee(101,"Amit Singh","Sales",70000);
+	}
+}

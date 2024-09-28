@@ -1,0 +1,51 @@
+Unary operators
+---------------
+++(increment)
+--(decrement)
+!(not)
+
+int x=10,y;
+//Write command to increase the value of variable x by 1
+x=x+1;
+x+=1;
+++x;///x=x+1
+
+Note:Every operator returns a value after performing operation
+
+++x;//prefix.In this case ++ operator will return new value of x
+or
+x++;//postfix.In this case ++ operator will return old value of x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

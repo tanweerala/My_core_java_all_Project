@@ -1,0 +1,17 @@
+Method overriding
+------------------
+To redefine parent class method into child class is called method overriding
+Child class will override parent class method in following two situations
+1)Child class wants to change/modify implementation of parent class method
+2)Patent class method has no implementation(abstract method)
+
+
+Method overriding rules
+-----------------------
+1)Argument list of both method must be same
+2)Return type of both method must be same
+3)Child class method should not be less accessible than the parent class method
+
+Note:
+i)If parent class method is final then child class can not override that method
+ii)If parent class method is private then it will not be inherited by child class so there is no question of method overriding

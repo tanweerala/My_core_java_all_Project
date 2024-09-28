@@ -1,0 +1,51 @@
+this
+====
+It is a keyword and it holds the reference of current class object
+It is used to access instance variables.As we know instance variable can not be accessed without the reference of object
+
+Command to access/use instance variable must be as follows
+object's reference.variablename
+As we know "this" holds reference of current class object so inside current class above code must be as follows
+this.variablename
+this. will be associated by compiler
+
+public class AA
+{
+  private int num;
+  public AA(int n)
+  {
+	num=n;//this.num=n;
+  }
+  public void square()
+  {
+	int sq=num*num;//int sq=this.num*this.num;
+  }
+}
+
+public class Product
+{
+  private int pid;
+  private String name;
+  private String brand;
+  private int price;
+  public Product(int pid,String name,String brand,int price)
+  {
+	this.pid=pid;
+	this.name=name;
+	this.brand=brand;
+	this.price=price;	
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

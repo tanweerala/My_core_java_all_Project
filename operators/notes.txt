@@ -1,0 +1,14 @@
+Operators
+----------
+Operators are used to perform operation on the operands
+There are three category of operators
+1)Unary operators:Single operand
+2)Binary operators:Two operands
+3)Ternary operators:Three operands
+
+
+Unary operator
+--------------
+++(increment):Arithmetic
+--(decrement):Arithmetic
+!(not):Logical

@@ -1,0 +1,15 @@
+Naming rules
+-------------
+1)Name must begin with an alphabets or $ or _
+2)Name can not have any symbol except $ and _
+3)Space is not allowed
+4)Keywords can not be name
+
+Naming conventions
+------------------
+1)Name should be meaningfull
+2)Class name should be in TitleCase
+3)Method and variable name name should be in camelCase
+4)Package name should be in lowercase
+5)Constant name should be in UPPERCASE
+

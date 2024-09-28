@@ -1,0 +1,43 @@
+out and in object
+-----------------
+out is an object of PrintStream class
+Code to create this object(out) is written inside System class
+in is an object of InputStream class
+Code to create this object(in) is written inside System class
+
+Remember out is a reference variable and it holds reference of PrintStream class
+Remember in is a reference variable and it holds reference of InputStream class
+Both variables are declared inside System class and both variables are static
+
+println() and print() is a non-static method of PrintStream class
+Our program can call this method to display value/data on console window
+Syatem.out.println("Welcome");
+
+Constructor of Scanner class
+----------------------------
+It accepts reference of object of InputStream class
+So we will have to pass reference of InputStream class object to the constructor of Scanner class
+class AA
+{
+  static int x=90;
+}
+Scanner sc=new Scanner(System.in);
+Remember constructors or methods accept value(Value could be reference of object also)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

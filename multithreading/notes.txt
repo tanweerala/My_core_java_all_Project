@@ -1,0 +1,21 @@
+Multithreading
+==============
+It is one of the way to achieve multitasking
+Multitasking means performing more than one tasks simultaneously
+Multitasking application creates and starts more than one threads at a time(per task one thread)
+
+Thread
+-------
+It is smallest unit of processing
+In java every thread is represented in the form of objects
+This object should be created either from Thread class or from the child of Thread class
+Every thread should be treated as a small program having run() method
+This run() method will be called autometically when thread will get change for exeuction
+We will have to override run() method only
+Inside this method we will have to write code to perform task
+
+
+
+
+
+

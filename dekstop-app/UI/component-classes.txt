@@ -1,0 +1,17 @@
+Component classes
+-----------------
+component		class
+----------		------
+frame			JFrame
+button			JButton
+label			JLabel
+textbox			JTextField
+passwordbox		JPasswordField
+radio button		JRadioButton
+checkbox		JCheckBox
+
+These classes are in javax.swing package
+
+JFrame frame=new JFrame();
+frame.setSize(600,400);
+frame.setVisible(true);
